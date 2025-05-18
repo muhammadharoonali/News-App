@@ -1,2 +1,5 @@
 # News-App
-Author Haroon Ali
+ Haroon Ali
+<br>
+Flutter Developer
+
